@@ -8,7 +8,7 @@ interface ConsultationModalProps {
   defaultService?: string;
 }
 const GOOGLE_SCRIPT_URL =
-  'https://script.google.com/macros/s/AKfycbyHns2iiso1mVK5w-8rgewvLKLXoYLm8N5mSXZADP9BI3HKBmCx_MU226guYvjqD9TW/exec';
+  'https://script.google.com/macros/s/AKfycbxf1zeIuTTLz1UJG1NfxsbfoExZYQqq4gWVajalxmS-JTRjvlk5oYreN4sbPXMIPsBp/exec';
 
 export const ConsultationModal: React.FC<ConsultationModalProps> = ({
   isOpen,
