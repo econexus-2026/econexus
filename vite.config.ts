@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/econexus1-advisors/',
+    base: '/econexus-2026/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
